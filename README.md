@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">• 🔭 I’m currently working on <strong>EduSync! - A Student Management System</strong><br><br>• 🌱 I’m currently learning <strong>Kotlin and Javascript</strong><br><br>• 🤝 I’m looking for help with <strong>Data Structures and Algorithms</strong><br><br>• 💬 We can talk about Programming, Graphic Design, and other Tech Fields!</p>
+<p align="left">• 🔭 I’m currently working on <strong>EduSync! - A Student Management System</strong><br><br>• 🌱 I’m currently learning <strong>C and DSA</strong><br><br>• 🤝 I’m looking for help with <strong>Data Structures and Algorithms</strong><br><br>• 💬 We can talk about Programming, Graphic Design, and other Tech Fields!</p>
 
 ###
 
