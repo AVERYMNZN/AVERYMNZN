@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">• 👨‍🎓 I'm a college freshman taking the course Bachelor of Science in Information Technology. I spend most of my time working on random projects that involve Java or Python, as well as learning new stuff regardless if it's programming-related or not.<br><br>• 💬 I love sharing ideas with people, and even more: learning from them!</p>
+<p align="left">• 👨‍🎓 I'm a college student taking the course Bachelor of Science in Information Technology. I spend most of my time working on random projects that involve Java or Python, as well as learning new stuff regardless if it's programming-related or not.<br><br>• 💬 I love sharing ideas with people, and even more: learning from them!</p>
 
 ###
 
