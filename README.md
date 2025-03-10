@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">🔨 Languages and Tools:</h3>
 
 ###
 
@@ -44,7 +44,10 @@
   <img src="https://streak-stats.demolab.com?user=AVERYMNZN&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVERYMNZN&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AVERYMNZN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /> -->
+<!--   <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" alt="Comptia ITF+ Certified Logo" height="200" width="200"> -->
 </div>
+
+###
 
 ###
 
@@ -56,7 +59,7 @@
 
 ###
 
-<p align="left">• 👨‍🎓 I'm a college freshman from the Philippines taking the course Bachelor of Science in Information Technology. I spend most of my time working on random projects that involve Java or Python, as well as learning new stuff regardless if it's programming-related or not.<br><br>• 💬 I love sharing ideas with people, and even more: learning from them!</p>
+<p align="left">• 👨‍🎓 I'm a college freshman taking the course Bachelor of Science in Information Technology. I spend most of my time working on random projects that involve Java or Python, as well as learning new stuff regardless if it's programming-related or not.<br><br>• 💬 I love sharing ideas with people, and even more: learning from them!</p>
 
 ###
 
@@ -68,11 +71,15 @@
 
 ###
 
-<p align="left">• 🔭 I’m currently working on <strong>EduSync! - A Student Management System</strong><br><br>• 🌱 I’m currently learning <strong>C and DSA</strong><br><br>• 🤝 I’m looking for help with <strong>Data Structures and Algorithms</strong><br><br>• 💬 We can talk about Programming, Graphic Design, and other Tech Fields!</p>
+<p align="left">• 🔭 I’m currently working on <strong>EduSync! - A Student Management System</strong><br><br>• 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong><br><br>• 💬 We can talk about Programming, Linux, Networks, and other Tech Fields!</p>
 
 ###
 
-
+<h1 align="left"></h1>
+<h3 align="left">🏆 Badges Earned:</h3>
+<div align="left">
+  <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" alt="Comptia ITF+ Certified Logo" height="200" width="200">
+</div>
 
 ###
 
@@ -93,9 +100,9 @@
   <a href="https://twitter.com/AVRMNZN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://t.me/OWLKATSU" target="_blank">
+<!--   <a href="https://t.me/OWLKATSU" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+  </a> -->
 </div>
 
 
