@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AVERYMNZN&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AVERYMNZN&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt=""  />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVERYMNZN&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AVERYMNZN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /> -->
 <!--   <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" alt="Comptia ITF+ Certified Logo" height="200" width="200"> -->
