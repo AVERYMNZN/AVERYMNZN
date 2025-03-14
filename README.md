@@ -77,7 +77,7 @@
 <h1 align="left"></h1>
 <h3 align="left">🏆 Badges Earned:</h3>
 <div align="left">
-  <img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" alt="Comptia ITF+ Certified Logo" height="200" width="200">
+  <a href="https://www.credly.com/badges/00538142-a0d4-4457-95d8-b6594f362175/public_url"><img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" alt="Comptia ITF+ Certified Logo" height="200" width="200"></a>
 </div>
 
 ###
