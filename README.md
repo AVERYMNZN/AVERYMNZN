@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">🌏 Hello World,<br/> I'm Avery 👋</h1>
+<h1 align="center">🌏 Hello World, I'm Avery 👋</h1>
 
 ###
 
