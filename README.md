@@ -92,6 +92,17 @@
 </p>
 
 <h1 align="left"></h1>
+
+<h3 align="left">🌏 Community & Events</h3>
+
+| Event Name | Role / Achievement | Date | Location |
+| :--- | :--- | :--- | :--- |
+| **Beyond Limits: The AI Hack (GDG-HAU Hackathon)** | 🥈 **Winner:** Rookie Innovators Award - [View Project](https://github.com/kurt0542/kain) | Dec 2025 | Pampanga |
+| **CodeChum National Programming Challenge Season 2** | 🎟️ Participant | Nov 2025 | Remote |
+| **CSFP Startup Challenge** | 🏆 **CHAMPION** | Oct 2025 | Pampanga |
+| **CodeChum National Programming Challenge** | 🎟️ Participant | Oct 2024 | Remote |
+
+<h1 align="left"></h1>
 <h3 align="left">🏆 Badges Earned:</h3>
 <div align="left">
   <a href="https://www.credly.com/badges/00538142-a0d4-4457-95d8-b6594f362175"><img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" height="190" align="middle" alt="CompTIA ITF+"/></a>&nbsp;<a href="https://www.credly.com/badges/4267cb7e-7a34-4b6f-bdd9-17ed25778346"><img src="https://images.credly.com/size/340x340/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png" height="150" align="middle" alt="IT Specialist Databases"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/4f2e3c66-6c41-4dcc-a4f4-dc58d1fa4d14/public_url"><img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" height="150" align="middle" alt="IT Specialist Databases"/></a>
