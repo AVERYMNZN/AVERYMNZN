@@ -74,7 +74,7 @@
 
 <h3 align="left">👨‍🎓 About Me</h3>
 <p align="left">
-  I'm a <strong>BSIT Student</strong> with a passion for building. I spend my time crafting side projects and constantly expanding my skill set—whether it's strictly code-related or exploring new disciplines.
+  A <strong>Student Developer</strong> with a passion for building. I spend my time crafting side projects and constantly expanding my skill set — whether it's strictly code-related or exploring new disciplines.
   <br><br>
   I believe in the power of open collaboration; I love sharing my ideas, but I value learning from others even more.
 </p>
