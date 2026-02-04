@@ -72,25 +72,24 @@
 
 ###
 
-<h3 align="left">🧐 More About Me:</h3>
+<h3 align="left">👨‍🎓 About Me</h3>
+<p align="left">
+  I'm a <strong>BSIT Student</strong> with a passion for building. I spend my time crafting side projects and constantly expanding my skill set—whether it's strictly code-related or exploring new disciplines.
+  <br><br>
+  I believe in the power of open collaboration; I love sharing my ideas, but I value learning from others even more.
+</p>
 
-###
-
-<p align="left">• 👨‍🎓 I'm a college student taking the course Bachelor of Science in Information Technology. I spend most of my time working on random projects, as well as learning new stuff regardless if it's programming-related or not.<br><br>• 💬 I love sharing ideas with people, and even more: learning from them!</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">🤔 Current Interests:</h3>
-
-###
-
-<p align="left">• 🔭 I’m currently working on personal projects<br><br>• 🌱 I’m currently learning <strong>Machine Learning</strong><br><br>• 💬 We can talk about Programming, Linux, Networks, and other Tech Fields!</p>
-
-###
+<h3 align="left">🚀 Current Focus</h3>
+<p align="left">
+  🔭 <strong>Building:</strong> <br>
+  <code>Mobile Applications</code> <code>Personal Projects</code> <code>IoT Solutions</code>
+  <br><br>
+  🌱 <strong>Learning:</strong> <br>
+  <code>Machine Learning Concepts</code> <code>Data Science</code>
+  <br><br>
+  💬 <strong>Let's Discuss:</strong> <br>
+  <code>Programming</code> <code>Linux</code> <code>Networking</code> <code>Tech Trends</code>
+</p>
 
 <h1 align="left"></h1>
 <h3 align="left">🏆 Badges Earned:</h3>
