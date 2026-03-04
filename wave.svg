@@ -8,7 +8,19 @@
 >
   <defs>
     <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+    
+    <style>
+      .dynamic-text {
+        fill: #212121; /* High-quality Charcoal Gray for Light Mode */
+      }
+      @media (prefers-color-scheme: dark) {
+        .dynamic-text {
+          fill: #ffffff; /* Crisp white for Dark Mode */
+        }
+      }
+    </style>
   </defs>
+  
   <g>
     <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(103, 58, 183, 0.4)">
       <animateTransform attributeName="transform" type="translate" from="-90 0" to="85 0" dur="7s" repeatCount="indefinite" />
@@ -23,4 +35,10 @@
       <animateTransform attributeName="transform" type="translate" from="-90 0" to="85 0" dur="20s" repeatCount="indefinite" />
     </use>
   </g>
+
+  <text x="75" y="38" text-anchor="middle" dominant-baseline="middle" 
+        font-family="'Arial Black', 'Impact', sans-serif" font-size="8" font-weight="900" 
+        class="dynamic-text" letter-spacing="0.5">
+    AVERY MANZON
+  </text>
 </svg>
