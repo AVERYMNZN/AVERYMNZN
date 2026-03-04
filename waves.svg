@@ -5,75 +5,33 @@
   viewBox="0 24 150 28"
   preserveAspectRatio="none"
   shape-rendering="auto"
+  style="display: block; width: 100%; height: 100px; position: relative;"
 >
   <defs>
     <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+    <style>
+      :root { --purple-wave: 103, 58, 183; }
+      @media (prefers-color-scheme: dark) { :root { --purple-wave: 179, 136, 255; } }
+
+      .parallax > use {
+        animation: move-forever infinite;
+        will-change: transform;
+      }
+      .w1 { animation: move-forever 7s cubic-bezier(.55,.5,.45,.5) infinite; animation-delay: -2s; fill: rgba(var(--purple-wave), 0.7); }
+      .w2 { animation: move-forever 10s cubic-bezier(.55,.5,.45,.5) infinite; animation-delay: -3s; fill: rgba(var(--purple-wave), 0.5); }
+      .w3 { animation: move-forever 13s cubic-bezier(.55,.5,.45,.5) infinite; animation-delay: -4s; fill: rgba(var(--purple-wave), 0.3); }
+      .w4 { animation: move-forever 20s cubic-bezier(.55,.5,.45,.5) infinite; animation-delay: -5s; fill: rgba(var(--purple-wave), 1); }
+
+      @keyframes move-forever {
+        0% { transform: translate3d(-90px, 0, 0); }
+        100% { transform: translate3d(85px, 0, 0); }
+      }
+    </style>
   </defs>
   <g class="parallax">
-    <use xlink:href="#gentle-wave" x="50" y="0" class="wave-layer-1" />
-    <use xlink:href="#gentle-wave" x="35" y="4" class="wave-layer-2" />
-    <use xlink:href="#gentle-wave" x="65" y="2" class="wave-layer-3" />
-    <use xlink:href="#gentle-wave" x="42" y="7" class="wave-layer-4" />
+    <use xlink:href="#gentle-wave" x="50" y="0" class="w1" />
+    <use xlink:href="#gentle-wave" x="35" y="3" class="w2" />
+    <use xlink:href="#gentle-wave" x="65" y="5" class="w3" />
+    <use xlink:href="#gentle-wave" x="42" y="7" class="w4" />
   </g>
-
-  <style>
-    :root {
-      --wave-color: 103, 58, 183;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --wave-color: 179, 136, 255;
-      }
-    }
-
-    .waves {
-      position: relative;
-      width: 100%;
-      height: 15vh;
-      min-height: 100px;
-      max-height: 150px;
-      display: block;
-    }
-
-    .parallax > use {
-      animation: move-forever infinite;
-    }
-
-    .wave-layer-1 { 
-      animation-name: move-forever;
-      animation-duration: 9s; 
-      animation-delay: -2s;
-      animation-timing-function: cubic-bezier(.4, .5, .6, .5);
-      fill: rgba(var(--wave-color), 0.7); 
-    }
-
-    .wave-layer-2 { 
-      animation-name: move-forever;
-      animation-duration: 14s; 
-      animation-delay: -5s;
-      animation-timing-function: cubic-bezier(.5, .4, .4, .5);
-      fill: rgba(var(--wave-color), 0.5); 
-    }
-
-    .wave-layer-3 { 
-      animation-name: move-forever;
-      animation-duration: 18s; 
-      animation-delay: -8s;
-      animation-timing-function: cubic-bezier(.6, .4, .5, .6);
-      fill: rgba(var(--wave-color), 0.3); 
-    }
-
-    .wave-layer-4 { 
-      animation-name: move-forever;
-      animation-duration: 25s; 
-      animation-delay: -12s;
-      animation-timing-function: cubic-bezier(.55, .5, .45, .5);
-      fill: rgba(var(--wave-color), 1); 
-    }
-
-    @keyframes move-forever {
-      0% { transform: translate3d(-90px, 0, 0); }
-      100% { transform: translate3d(85px, 0, 0); }
-    }
-  </style>
 </svg>
