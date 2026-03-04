@@ -1,16 +1,18 @@
 <div align="center">
-  <img height="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=10,11,16&text=Avery%20Manzon-nl-&animation=fadeIn&desc=Information%20Technology%20|%20Mobile%20Development%20|%20Internet%20of%20Things" />
+  
+  [![Email](https://img.shields.io/badge/Email-averymanzon6%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:averymanzon6@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-katsu.dev-darkblue?style=for-the-badge&logo=discord)](https://discord.com/users/1079346926945828904/)
+  [![Telegram](https://img.shields.io/badge/Telegram-Avery%20Manzon-lightblue?style=for-the-badge&logo=telegram)](https://t.me/OWLKATSU)
+
+   [![GitHub Streak](https://github-readme-streak-stats-wine-nu.vercel.app?user=AVERYMNZN&theme=midnight-purple)](https://git.io/streak-stats)
+
 </div>
 
-###
-
-<h1 align="center">🌏 Hello World, I'm Avery Manzon 👋</h1>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 
-###
 <br>
 
 <div align="center">
@@ -63,12 +65,8 @@
 ###
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats-wine-nu.vercel.app?user=AVERYMNZN&theme=midnight-purple)](https://git.io/streak-stats)
-  
-###
 
-<h1 align="left"></h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
 
 ###
 
@@ -91,7 +89,7 @@
   <code>Programming</code> <code>Linux</code> <code>Networking</code> <code>Tech Trends</code>
 </p>
 
-<h1 align="left"></h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">🌏 Community & Events</h3>
 
@@ -102,13 +100,16 @@
 | **CSFP Startup Challenge** | 🏆 **CHAMPION** | Oct 2025 | Pampanga |
 | **CodeChum National Programming Challenge** | 🎟️ Participant | Oct 2024 | Remote |
 
-<h1 align="left"></h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
+
 <h3 align="left">🏆 Certifications/Badges Earned:</h3>
 <div align="left">
   <a href="https://www.credly.com/badges/00538142-a0d4-4457-95d8-b6594f362175"><img src="https://images.credly.com/images/40d75658-d28b-4a28-8bff-bea3ab502778/twitter_thumb_201604_ITF_2B_Logo_Certified.png" height="190" align="middle" alt="CompTIA ITF+"/></a>&nbsp;<a href="https://www.credly.com/badges/4267cb7e-7a34-4b6f-bdd9-17ed25778346"><img src="https://images.credly.com/size/340x340/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png" height="150" align="middle" alt="IT Specialist Databases"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/4f2e3c66-6c41-4dcc-a4f4-dc58d1fa4d14/public_url"><img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" height="150" align="middle" alt="IT Specialist Databases"/></a>
 </div>
 
 ###
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">Connect with me:</h3>
 
@@ -132,4 +133,4 @@
   </a>
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10,11,16&coloranimation=fadeIn&section=footer" />
