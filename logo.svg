@@ -1,0 +1,40 @@
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+    @keyframes trace {
+      0% {
+        stroke-dashoffset: 1200;
+        fill: rgba(103, 58, 183, 0);
+      }
+      60% {
+        stroke-dashoffset: 0;
+        fill: rgba(103, 58, 183, 0);
+      }
+      100% {
+        stroke-dashoffset: 0;
+        fill: rgba(103, 58, 183, 1);
+      }
+    }
+
+    .tracing-text {
+      font-family: 'Montserrat', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 75px;
+      font-weight: 900;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      
+      stroke: #b388ff;
+      stroke-width: 1.5;
+      stroke-dasharray: 1200;
+      stroke-dashoffset: 1200;
+      
+      /* Animation */
+      animation: trace 5s ease-in-out infinite alternate;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+    }
+  </style>
+  
+  <text x="50%" y="50%" class="tracing-text">AVERY MANZON</text>
+</svg>
