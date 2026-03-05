@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 
@@ -38,15 +38,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-</div>
-
-<br>
-
-###
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=10,11,16" width="100%" />
 
 ###
 
@@ -69,7 +63,7 @@
   <code>Programming</code> <code>Linux</code> <code>Networking</code> <code>Tech Trends</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">🌏 Community & Events</h3>
 
@@ -80,7 +74,7 @@
 | **CSFP Startup Challenge** | 🏆 **CHAMPION** | Oct 2025 | Pampanga |
 | **CodeChum National Programming Challenge** | 🎟️ Participant | Oct 2024 | Remote |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">🏆 Certifications/Badges Earned:</h3>
 <div align="left">
@@ -89,7 +83,7 @@
 
 ###
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&customColorList=10,11,16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=10,11,16" width="100%" />
 
 <h3 align="left">Connect with me:</h3>
 
